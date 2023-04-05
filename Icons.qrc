@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dry-clean.png</file>
+        <file>redcircle.png</file>
+        <file>yellowcircle.png</file>
+        <file>logo.png</file>
+        <file>Geocon_HiRes_IoTExpo_R.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>fonts/HINDI/NotoSans-Regular.ttf</file>
+    </qresource>
+</RCC>
